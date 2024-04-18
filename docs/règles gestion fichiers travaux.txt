@@ -1,0 +1,9 @@
+++++ -> 4
+++ ->
+sinon 0 
+
+
+
+Suppr typologie client/zone
+DRG = toutes DRG 
+Segmentation marketing = Tous
